@@ -1,2 +1,3 @@
 PRODUCT_PACKAGES += \
-	GoogleCamera
+	GoogleCamera \
+	GoogleCamera.apk.prof

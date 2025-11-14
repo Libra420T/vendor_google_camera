@@ -1,0 +1,10 @@
+//
+//
+
+prebuilt_etc {
+        name: "GoogleCamera.apk.prof",
+        src: "GoogleCamera/GoogleCamera.apk.prof",
+        sub_dir: "priv-app/GoogleCamera",
+        installable: false,
+        product_specific: true,
+}
